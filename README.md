@@ -37,7 +37,7 @@ I’m always up for learning new things, whether it's a new data analytics techn
 When I’m not crunching numbers, you can find me reading about the latest trends in tech, finance, or enjoying a good book on personal development!
 
 ## 📫 Get in Touch:
-- **LinkedIn**: [Connect with me](#)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/jatinmukati/)
 - **Tableau Portfolio**: [Explore My Visualizations](https://public.tableau.com/app/profile/jatin.mukati/viz/GoogleDataAnalyticsCapstoneProjectJM/Dashboard)
 - **Email**: [jatin.mukati@gmail.com](mailto:jatinmukati99@gmail.com)
 
