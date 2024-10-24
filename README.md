@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a data enthusiast with a strong foundation in 
 ## 🌟 What I've Worked On:
 - **Cyclistic Bike Share Analysis**  
   Analyzed over 5.6 million rides to uncover key differences in user behavior between casual riders and members. The insights were used to inform marketing strategies aimed at increasing membership conversion.  
-  [View Project](#)
+  [View Project](https://github.com/JatinMukati/Google-Data-Analytics-Capstone-Project)
 
 - **Layoffs Analysis**  
   Cleaned and manipulated a layoffs dataset using advanced SQL functions, ensuring data integrity and consistency. I analyzed industry trends and patterns to identify key insights.  
-  [View Project](#)
+  [View Project](https://github.com/JatinMukati/SQL_Project)
 
 ## 🎯 What I'm Working On:
 - **Advanced SQL & Data Optimization**: Enhancing my SQL skills to optimize queries and improve performance when working with large datasets. I'm focusing on creating more efficient data pipelines.
@@ -39,6 +39,6 @@ When I’m not crunching numbers, you can find me reading about the latest trend
 ## 📫 Get in Touch:
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/jatinmukati/)
 - **Tableau Portfolio**: [Explore My Visualizations](https://public.tableau.com/app/profile/jatin.mukati/viz/GoogleDataAnalyticsCapstoneProjectJM/Dashboard)
-- **Email**: [jatin.mukati@gmail.com](mailto:jatinmukati99@gmail.com)
+- **Email**: [jatinmukati99@gmail.com](mailto:jatinmukati99@gmail.com)
 
 ---
