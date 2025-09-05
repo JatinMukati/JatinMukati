@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a data enthusiast with a strong foundation in 
   Analyzed over 5.6 million rides to uncover key differences in user behavior between casual riders and members. The insights were used to inform marketing strategies aimed at increasing membership conversion.  
   [View Project](https://github.com/JatinMukati/Google-Data-Analytics-Capstone-Project)
 
+- **Vendor Performance Analysis**  
+  Conducted an in-depth vendor and inventory analysis to identify underperforming brands, evaluate top vendor contributions, and assess the impact of bulk purchasing on cost savings. Key findings highlighted $2.71M tied in unsold inventory, top 10 vendors contributing 65%+ of purchases, and profitability differences between high- and low-performing vendors. Recommendations focused on vendor diversification, inventory optimization, and pricing strategies.  
+  [View Project](https://github.com/JatinMukati/Vendor-Performance-Analysis)
+
 - **Layoffs Analysis**  
   Cleaned and manipulated a layoffs dataset using advanced SQL functions, ensuring data integrity and consistency. I analyzed industry trends and patterns to identify key insights.  
   [View Project](https://github.com/JatinMukati/SQL_Project)
