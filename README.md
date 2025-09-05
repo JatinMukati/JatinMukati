@@ -4,7 +4,7 @@
 💼 **Passionate about uncovering insights through data**  
 🔍 **Exploring data-driven solutions and storytelling**  
 
-Welcome to my GitHub profile! I'm a data enthusiast with a strong foundation in SQL, Excel, Tableau, and Python. Currently pursuing my MBA in Finance and Marketing, I love transforming raw data into meaningful stories that drive business decisions. I have hands-on experience in analyzing large datasets and building insightful visualizations, with a focus on delivering actionable insights.
+Welcome to my GitHub profile! I'm a data enthusiast with a strong foundation in SQL, Excel, Power BI, Tableau, and Python. Currently pursuing my MBA in Finance and Marketing, I love transforming raw data into meaningful stories that drive business decisions. I have hands-on experience in analyzing large datasets and building insightful visualizations, with a focus on delivering actionable insights.
 
 ## 🛠️ Skills & Tools
 - **Languages**: SQL, Python
